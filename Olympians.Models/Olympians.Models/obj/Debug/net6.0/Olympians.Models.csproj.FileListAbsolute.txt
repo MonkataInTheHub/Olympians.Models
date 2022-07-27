@@ -1,0 +1,24 @@
+D:\Academy\Olympians.Models\Olympians.Models\bin\Debug\net6.0\Olympians.Models.deps.json
+D:\Academy\Olympians.Models\Olympians.Models\bin\Debug\net6.0\Olympians.Models.dll
+D:\Academy\Olympians.Models\Olympians.Models\bin\Debug\net6.0\Olympians.Models.pdb
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.csproj.AssemblyReference.cache
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.AssemblyInfoInputs.cache
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.AssemblyInfo.cs
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.csproj.CoreCompileInputs.cache
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.dll
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\refint\Olympians.Models.dll
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.pdb
+D:\Academy\Olympians.Models\Olympians.Models\obj\Debug\net6.0\ref\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.AssemblyInfo.cs
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\refint\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\Olympians.Models.pdb
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\bin\Debug\net6.0\Olympians.Models.deps.json
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\bin\Debug\net6.0\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\bin\Debug\net6.0\Olympians.Models.pdb
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Debug\net6.0\ref\Olympians.Models.dll

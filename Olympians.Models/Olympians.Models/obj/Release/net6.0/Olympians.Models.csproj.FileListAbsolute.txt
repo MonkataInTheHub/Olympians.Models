@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\bin\Release\net6.0\Olympians.Models.deps.json
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\bin\Release\net6.0\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\bin\Release\net6.0\Olympians.Models.pdb
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.AssemblyInfo.cs
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\refint\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\Olympians.Models.pdb
+D:\Documents\Visual Studio Repository\Olympians.Models\Olympians.Models\obj\Release\net6.0\ref\Olympians.Models.dll
